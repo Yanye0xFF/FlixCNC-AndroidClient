@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="HeaderView">
+        <attr name="title" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="DragSeekBar">
+        <attr name="seek_total" format="integer" />
+        <attr name="seek_low" format="integer" />
+        <attr name="seek_high" format="integer" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_jog"
+        android:icon="@mipmap/ic_nav_jog"
+        android:title="@string/nav_title_jog" />
+
+    <item
+        android:id="@+id/navigation_engraving"
+        android:icon="@mipmap/ic_nav_drilling"
+        android:title="@string/nav_title_engraving"/>
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@mipmap/ic_nav_setting"
+        android:title="@string/nav_title_setting" />
+
+</menu>

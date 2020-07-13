@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">FlixCNC</string>
+
+    <string name="subscriber_register_fail">注册回调错误, 请重启软件</string>
+
+    <!--mainActivity navigation bar-->
+    <string name="nav_title_jog">手轮</string>
+    <string name="nav_title_engraving">雕刻</string>
+    <string name="nav_title_setting">设置</string>
+
+    <!--engraving fragment-->
+    <string name="fragment_title_engraving">雕刻加工</string>
+    <string name="text_no_file_holder">没有待加工文件 !</string>
+
+    <!--connectionActivity-->
+    <string name="title_dev_conn">设备连接</string>
+    <string name="edit_hint_ip">IP地址</string>
+    <string name="edit_hint_port">端口</string>
+    <string name="button_text_connect">连接</string>
+    <string name="button_text_scan">雕刻机二维码</string>
+
+
+
+    <!--motionControl fragment-->
+    <string name="title_real_position">机器坐标[mm]</string>
+    <string name="title_work_position">工作坐标[mm]</string>
+
+    <string name="title_motion_control">运动控制</string>
+    <string name="text_rb_accurate">精确定位</string>
+    <string name="text_rb_manual">手动模式</string>
+
+    <string name="title_single_step">单步距离</string>
+
+    <string name="text_start_spindle">启动主轴</string>
+    <string name="text_stop_spindle">停止主轴</string>
+
+
+    <string name="text_empty_folder">这个文件夹是空的!</string>
+
+    <!--zxing qrcode scanner-->
+    <string name="button_exit">退出</string>
+    <string name="init_camera_error">初始化相机出错, 请检查硬件设备</string>
+    <string name="finder_view_hint1">将雕刻机二维码放入取景框内</string>
+    <string name="finder_view_hint2">即可自动扫描</string>
+
+</resources>

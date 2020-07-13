@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#78a355</color>
+    <color name="colorPrimaryDark">#74B5AA</color>
+    <color name="colorAccent">#FFAB40</color>
+    <color name="forestGreen">#228B22</color>
+    <color name="darkOrange">#FF8C00</color>
+    <color name="lightCyan">#E0FFFF</color>
+    <color name="lightGary">#F5F5F5</color>
+    <color name="softGreen">#3CB371</color>
+    <color name="button_normal">#0091EA</color>
+
+    <color name="possible_result_points">#c0ffbd21</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_mask">#60000000</color>
+
+</resources>
